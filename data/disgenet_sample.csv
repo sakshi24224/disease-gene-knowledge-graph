@@ -1,0 +1,11 @@
+﻿disease_name,gene_symbol,score
+Type 2 diabetes mellitus,TCF7L2,0.78
+Type 2 diabetes mellitus,SLC30A8,0.64
+Breast carcinoma,BRCA1,0.90
+Breast carcinoma,BRCA2,0.88
+Rheumatoid arthritis,PTPN22,0.73
+Rheumatoid arthritis,HLA-DRB1,0.81
+Alzheimer's disease,APOE,0.92
+Alzheimer's disease,APP,0.75
+Asthma,IL13,0.66
+Asthma,IL4,0.69
